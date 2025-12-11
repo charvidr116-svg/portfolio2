@@ -15,7 +15,7 @@ What it does:
 #>
 
 param(
-    [string]$SourceImage = 'C:\Users\HP\OneDrive\Desktop\namrata.jpg'
+    [string]$SourceImage = 'C:\Users\HP\OneDrive\Desktop\charvi.jpg'
 )
 
 # Determine paths relative to this script's folder

@@ -10,7 +10,7 @@ then calls `copy-profile.ps1` to perform the backup/copy and optional ImageMagic
 #>
 
 # Default path (change if your Desktop path is different)
-$default = 'C:\Users\HP\OneDrive\Desktop\namrata.jpg'
+$default = 'C:\Users\HP\OneDrive\Desktop\charvi.jpg'
 
 Write-Host "Interactive photo installer"
 Write-Host "Press Enter to accept the default path shown in brackets."
